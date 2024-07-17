@@ -1,4 +1,4 @@
-# Autenti E-Signature Workflow Connector for Power Automate
+# Autenti E-Signature Workflow Connector for Power Automate -Accept env.
 
 The Autenti E-Signature Workflow Connector enables integration with the Autenti platform, offering functionalities related to managing processes of electronic signing of documents within Microsoft Power Automate workflows.
 
