@@ -6,7 +6,7 @@ The Autenti E-Signature Workflow Connector enables integration with the Autenti 
 
 ### Prerequisites
 
-	1.	Power Automate Account: Ensure you have an active Power Automate account.
+	1.	Power Automate Account: Ensure you have an active Power Automate Premium license.
 	2.	Solution File: Obtain the solution file (.zip) that you want to import.
 
 ### Steps to Import a Solution
